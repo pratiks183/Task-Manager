@@ -19,7 +19,7 @@ body {
 
 .container {
     width: 500px;
-    background: rgb(127,127,127);
+    background: rgb(255,255,255);
     padding: 30px;
     border-radius: 12px;
 
@@ -59,7 +59,7 @@ h1 {
     border: none;
     border-radius: 6px;
 
-    background: #04f484;
+    background: #ff0353;
     color: white;
 
     cursor: pointer;
